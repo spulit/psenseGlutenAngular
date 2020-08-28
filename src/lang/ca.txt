@@ -1,0 +1,80 @@
+inicio=>Inici
+section-description=>Qui som
+section-bakery=>Fleca
+section-pastrie=>Brioixeria
+section-cake=>Pastisseria
+section-pricing=>Alguns dels nostres preus
+section-reviews=>Clients satisfets
+titulo-logo=>Obrador sense Gluten y sense Lactosa
+donde-encontrarnos=>On trobar-nos
+quienes-somos-h3=>¿Qui som?
+quienes-somos-titulo=>Pastisseria Sense Gluten ha nascut desde el cor. 
+qs-descripcion-1=>Va començar com una il.lusió, es va anant materialitzant fins que a principis del 2019 varem poder obrir el nostre obrador a Barcelona. Portem poc al barri de Sant Andreu però la nostra entrega es total, ens esmerem per otorgar la màxima qualitat als nostres productes, que son elaborats de forma artesanal.
+qs-descripcion-2=>Tots els que ho desitgin poden demanar els nostres productes mitjançant <a  data-lang="quienes-somos-telefono"href="#telf"> telèfon </a>,  <a  href="https://www.facebook.com/PastisseriaSenseGluten/" target="_blank">facebook</a> / <a href="https://www.instagram.com/psensegluten/"  target="_blank">instagram</a> o a la nostra <a data-lang="quienes-somos-tienda" href="https://www.google.com/maps/place/Pastisseria+Sense+gluten/@41.4262338,2.184131,16z/data=!4m13!1m7!3m6!1s0x12a4bcd109635927:0xcaeafb73422c10f1!2sCarrer+de+Berenguer+de+Palou,+147,+08027+Barcelona!3b1!8m2!3d41.427167!4d2.1915125!3m4!1s0x12a4bdacd84939c5:0x5ab3773f639ae853!8m2!3d41.427167!4d2.1915125"  target="_blank">botiga física.</a></p>
+contenido-servicio-products=>Els nostres productes
+contenido-servicio-description=> Els ingredients oferts en tots els nostres productes són de la més alta qualitat, fabricats seguint un procés professional y amb molt d'afecte. En <strong>PSenseGluten </strong>solament oferim productes de la més&nbsp;<span style="text-decoration: underline;">alta qualitat</span>.&nbsp;Aquests productes <strong>&nbsp;</strong><strong>no els podràs trobar en els supermercats</strong>, ja que es realitzen el mateix dia, sota un minuciós procés artesanal, aconseguint un producte únic i deliciós.
+contenido-servicio-find=>En les nostres instal.lacions es poden trobar els següents productes:
+section-bakery-description=>Pans diversos y saborosos amb fermentació de llarga durada. <br> (Si clicas en les imatges obtindràs una mica més de informació)
+section-bakery-contact=>Trobaràs varietats de pans, si vols més informació, posat en contacte amb <a id="oneA" target="_blank" href="whatsapp://send/?phone=+34617986372&amp;text=Quisiera%20recibir%20mas%20informacion%20sobre%20el%20buenisimo%20pan%20que%20teneis..."> nosaltres</a> 
+section-bakery-gallery-1=>Per a l'elaboració del pà rústic s'utilitza una selecció de diverses farines.
+section-bakery-gallery-2=>La deliciosa i saludable remolatxa li dóna aquest color característic rosa tan desitjable.
+section-bakery-gallery-3=>Pà d'hamburguesa extremadament esponjós, tendre i sobretot deliciós
+section-bakery-gallery-4=>Pà de llavors anomenat pels nostres clients pa suculent, endevineu el motiu ...
+section-bakery-gallery-5=>Bagette llarga amb farina selecta per obtenir el millor sabor
+section-pastrie-p1=>No només hi ha ingredients també tenen passió, afecte i il·lusió.
+section-pastrie-p2=>Versió sense gluten i sense lactosa de les receptes tradicionals de la brioixeria que tant agrada
+carousel-title-1=>Croissant salat
+carousel-title-2=>Pizza tonyina y més
+carousel-title-3=>Palmeres
+carousel-title-4=>Brioix divers
+carousel-title-5=>Croissant francès
+carousel-title-6=>Pasta fullada de fruites
+carousel-title-7=>Croissant de xocolate
+carousel-title-8=>Alfajores argentins
+carousel-title-9=>Rolls de sobrassada
+carousel-title-10=>Rolls de ....
+carousel-description-1=>Croissant de salsitxa i formatge sense lactosa i gluten
+carousel-description-2=> Boníssima pizza de tonyina, pebrot, bacó amb molt gust i gens de gluten i lactosa
+carousel-description-3=>Tot un clàssic, bé, saborós i sense gluten ni lactosa
+carousel-description-4=>Brioix dolç i de molts tipus esponjosos amb molt gust !!!
+carousel-description-5=>Esponjós, saborós, deliciós, podriem seguir una bona estona ... però millor provar-ho.
+carousel-description-6=>Cruixent i laminoso pasta de full sota una crema artesana que conté deliciosa i fresca fruita.
+carousel-description-7=>Croissant de xocolata sense gluten i sense lactosa
+carousel-description-8=>Exquisit dolç de llet embolicat en unes hòsties tremendament saboroses
+carousel-description-9=>Massa de pasta de full amb suau sobrassada adornada amb sèsam ... deliciós !!!
+carousel-description-10=>Batejats com Choc & Roll estan creats amb ...... Vine a descobrir-ho!
+section-cake-h2=>Pastissos
+section-cake-p=>Deliciosos, esponjosos, saborosos pastissos realitzats des d'inici a fi amb un riquíssim gust.
+section-pricing-h2=>Alguns preus dels nostres riquíssims productes
+pricing-1-title-1=>Croissant de xocolata
+pricing-1-description-1=>Deliciós i esponjós croissant de xocolata sense gluten ni lactosa
+pricing-1-description-2=><i class="fa fa-fw fa-thermometer-full" aria-hidden="true"></i>Realitzat al nostre obrador cada dia
+pricing-1-description-3=><i class="fa fa-fw fa-star" aria-hidden="true"></i>Aquest és només un d'ells, vine a visitar-nos i veuràs quina diversitat.
+pricing-1-button=>¡Ho vui!
+pricing-2-title-1=>Pastissos sense gluten i sense lactosa
+pricing-2-title-2=>27.5 € pastís de 1Kg per a 10 persones (30 € Sacher)
+pricing-2-description-1=>Els pastissos són creats a gust de consumidor. Diga'ns què és el que t'agrada, la intolerància que tens i així crearem aquest ric pastís tan desitjat.
+pricing-2-description-2=><i class="fa fa-fw fa-thumbs-up" aria-hidden="true"></i>Sense gluten, si vols, també sense lactosa
+pricing-2-description-3=><i class="fa fa-fw fa-hand-o-right" aria-hidden="true"></i >Expliqui'ns alguna altra intolerància i encantats li farem el pastís.
+pricing-2-description-4=><i class="fa fa-fw fa-star" aria-hidden="true"></i>Amb passió per la rebosteria
+pricing-2-button=>M'ho demano
+pricing-3-title-1=>Xapata sense gluten
+pricing-3-description-1=>Amb farina de teff i blat sarraí sense gluten i reposada durant 24h per obtenir el màxim gust.
+pricing-3-description-2=><i class="fa fa-fw fa-arrow-circle-right" aria-hidden="true"></i>Farina de teff i blat sarraí a Una mica de sal
+pricing-3-description-3=><i class="fa fa-fw fa-thermometer-full" aria-hidden="true"></i>Llevat amb una mica de forn
+pricing-3-description-4=><i class="fa fa-fw fa-heart" aria-hidden="true"></i>Amor pels productes que elaborem
+pricing-3-button=>¡En vui un!
+section-reviews-h2=>Comentaris dels nostres clients
+section-reviews-p-1=>Aquest és el millor lloc sense gluten que he provat. ¡Recomano altament el donut!
+section-reviews-footer-1=>Marc Griell <time datetime = "2017-06-15T14: 35"> (11 febrer 2020) </ time>
+section-reviews-p-2=>Mai abans he pogut menjar pastissos sense deixar-me la butxaca, aquest té amb bons preus i a més deliciós
+section-reviews-footer-2=>Antonio Trabillo <time datetime = "2017-07-09T19: 12"> (14 de desembre al 2019) </ time>
+section-reviews-p-3=>He provat diferents productes i me'ls menjava tots.
+section-reviews-footer-3=>Anabel Francis <time datetime = "2017-09-01T11: 19"> (11 abril al 2019) </ time>
+section-reviews-p-4=>El pastís Sacher està de mort s'ha convertit en el meu nou pastís favorit .... i sense gluten ni lactosa ... flipo!
+section-reviews-footer-4=>Jose Barrascora <time datetime = "2017-08-12T08: 43"> (5 juny 2020) </ time>
+section-footer-information=>Informació
+footer-pricing=>Preus
+footer-comments=>Comentaris
+footer-our-location=>La nostra localització:
+footer-text=> Estem per endolcir-te la vida.

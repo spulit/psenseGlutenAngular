@@ -1,0 +1,80 @@
+inicio=>Inicio
+section-description=>Quienes somos
+section-bakery=>Panadería
+section-pastrie=>Bollería
+section-cake=>Pastelería
+section-pricing=>Algunos de nuestros precios
+section-reviews=>Clientes satisfechos
+titulo-logo=>Obrador sin Gluten y sin Lactosa
+donde-encontrarnos=>Donde encontrarnos
+quienes-somos-h3=>¿ Quienes somos ?
+quienes-somos-titulo=>Pastelería Sin Gluten ha nacido desde el corazón. 
+qs-descripcion-1=>Empezó como una ilusión, que fué tomando forma hasta que a principios del 2019 pudimos abrir nuestro obrador en Barcelona. Llevamos poco en el barrio de Sant Andreu pero nuestra entrega es total, nos esmeramos por otorgar la máxima calidad a nuestros productos, que son elaborados de forma artesanal.
+qs-descripcion-2=>Todos los que lo deseen pueden adquirir nuestros productos solicitándolos por <a  data-lang="quienes-somos-telefono"href="#telf"> teléfono </a>,  <a  href="https://www.facebook.com/PastisseriaSenseGluten/" target="_blank">facebook</a> / <a href="https://www.instagram.com/psensegluten/"  target="_blank">instagram</a> o en nuestra <a data-lang="quienes-somos-tienda" href="https://www.google.com/maps/place/Pastisseria+Sense+gluten/@41.4262338,2.184131,16z/data=!4m13!1m7!3m6!1s0x12a4bcd109635927:0xcaeafb73422c10f1!2sCarrer+de+Berenguer+de+Palou,+147,+08027+Barcelona!3b1!8m2!3d41.427167!4d2.1915125!3m4!1s0x12a4bdacd84939c5:0x5ab3773f639ae853!8m2!3d41.427167!4d2.1915125"  target="_blank">tienda física.</a></p>
+contenido-servicio-products=>Nuestros productos
+contenido-servicio-description=> Los ingredientes ofrecidos en todos nuestros productos son de la más alta calidad, fabricados siguiendo un proceso profesional y con mucho cariño. En <strong>PSenseGluten </strong>solo ofrecemos productos de la más&nbsp;<span style="text-decoration: underline;">alta calidad</span>.&nbsp;Estos productos <strong>&nbsp;</strong><strong>no pueden encontrase en los supermercados</strong>, pues se realizan el mismo día, bajo un minucioso proceso artesanal consiguiendo un producto único y delicioso.
+contenido-servicio-find=>En nuestras instalaciones puede encontrar los siguientes productos:
+section-bakery-description=>Panes diversos y sabrosos con fermentación de larga duración. <br> (Si clicas en las imágenes obtendrás un poco más de información)
+section-bakery-contact=>Encontrarás variados tipos de pan, si quieres más información ponte en contacto con <a id="oneA" target="_blank" href="whatsapp://send/?phone=+34617986372&amp;text=Quisiera%20recibir%20mas%20informacion%20sobre%20el%20buenisimo%20pan%20que%20teneis..."> nosotros</a> 
+section-bakery-gallery-1=>Para la elaboración del pan rústico se utiliza una selección de varios tipos de harina
+section-bakery-gallery-2=>La deliciosa y saludable remolacha le da ese color característico rosa tan apetecible.
+section-bakery-gallery-3=>Pan de hamburguesa extremadamente esponjoso, tierno y sobretodo delicioso
+section-bakery-gallery-4=>Pan de semillas llamado por nuestros clientes pan suculento, adivinad el motivo...
+section-bakery-gallery-5=>Bagette larga con harina selecta para obtener el mejor sabor
+section-pastrie-p1=>No solo hay ingredientes también tienen pasión, cariño e ilusión.
+section-pastrie-p2=>Versión sin gluten y sin lactosa de las recetas tradicionales de la bollería que tanto gusta
+carousel-title-1=>Cruasan salado
+carousel-title-2=>Pizza atún y más
+carousel-title-3=>Palmeras
+carousel-title-4=>Brioche diverso
+carousel-title-5=>Cruasan francés
+carousel-title-6=>Hojaldre de frutas
+carousel-title-7=>Cruasan de chocolate
+carousel-title-8=>Alfajores argentinos
+carousel-title-9=>Rolls de sobrasada
+carousel-title-10=>Rolls de ....
+carousel-description-1=>Cruasan de salchicha y queso sin lactosa y gluten
+carousel-description-2=>Riquísima pizza de atún, pimiento, bacon con mucho sabor y nada de gluten y lactosa
+carousel-description-3=>Todo un clásico, bueno, sabroso y sin gluten ni lactosa
+carousel-description-4=>Brioche dulce y de muchos tipos esponjosos con mucho sabor !!!
+carousel-description-5=>Esponjoso, sabroso, delicioso, podriamos seguir un buen rato ... pero mejor probarlo.
+carousel-description-6=>Crujiente y laminoso hojaldre bajo una crema artesana que contiene deliciosa y fresca fruta.
+carousel-description-7=>Cruasan de chocolate sin gluten y sin lactosa
+carousel-description-8=>Exquisito dulce de leche envuelto en unas obleas tremendamente sabrosas
+carousel-description-9=>Masa de hojaldre con suave sobrasada adornada con sésamo ... delicioso !!!
+carousel-description-10=>Bautizados como Choc & Roll están creados con ...... ¡Ven a descubrirlo!
+section-cake-h2=>Pasteles
+section-cake-p=>Deliciosos, esponjosos, sabrosos pasteles realizados desde inicio a fin con un riquísimo sabor.
+section-pricing-h2=>Algunos precios de nuestros riquísimos productos
+pricing-1-title-1=>Cruasan de Chocolate
+pricing-1-description-1=>Delicioso y esponjoso cruasan de chocolate sin gluten ni lactosa
+pricing-1-description-2=><i class="fa fa-fw fa-thermometer-full" aria-hidden="true"></i>Realizado en nuestro obrador cada día
+pricing-1-description-3=><i class="fa fa-fw fa-star" aria-hidden="true"></i>Este es solo uno de ellos, ven a visitarnos y verás que diversidad.
+pricing-1-button=>¡Lo quiero!
+pricing-2-title-1=> Pasteles sin gluten y sin lactosa
+pricing-2-title-2=>27.5€ pastel de 1Kg para 10 personas (30€ Sacher)
+pricing-2-description-1=>Los pasteles son creados a gusto del consumidor. Dinos que es lo que te gusta, la intolerancia que tienes y así crearemos ese rico pastel tan deseado.
+pricing-2-description-2=><i class="fa fa-fw fa-thumbs-up" aria-hidden="true"></i>Sin gluten, si quieres, también sin lactosa
+pricing-2-description-3=><i class="fa fa-fw fa-hand-o-right" aria-hidden="true"></i >Explíquenos alguna otra intolerancia y encantados le realizaremos el pastel.
+pricing-2-description-4=><i class="fa fa-fw fa-star" aria-hidden="true"></i>Con pasión por la reposteria
+pricing-2-button=>Me lo pido
+pricing-3-title-1=>Xapata sin gluten
+pricing-3-descripcion-1=>Con harina de teff y trigo sarraceno sin gluten y reposada durante 24h para obtener el máximo sabor.
+pricing-3-descripcion-2=><i class="fa fa-fw fa-arrow-circle-right" aria-hidden="true"></i>Harina de teff y trigo sarraceno <br> Una pizca de sal
+pricing-3-descripcion-3=><i class="fa fa-fw fa-thermometer-full" aria-hidden="true"></i>Levadura con un poco de horno
+pricing-3-descripcion-4=><i class="fa fa-fw fa-heart" aria-hidden="true"></i>Amor por los productos que elaboramos
+pricing-3-button=>¡Quiero uno!
+section-reviews-h2=>Comentarios de nuestros clientes
+section-reviews-p-1=>Este es el mejor sitio sin gluten que he probado. ¡Recomiendo altamente el donut!
+section-reviews-footer-1=>Marc Griell <time datetime="2017-06-15T14:35">(11 Febrero 2020)</time>
+section-reviews-p-2=>Nunca antes he podido comer pasteles sin dejarme el bolsillo, este tiene con buenos precios y además delicioso
+section-reviews-footer-2=>Antonio Trabillo <time datetime="2017-07-09T19:12">(14 Diciembre 2019)</time>
+section-reviews-p-3=>He probado diferentes productos y me los comía todos.
+section-reviews-footer-3=>Anabel Francis <time datetime="2017-09-01T11:19">(11 Abril 2019)</time>
+section-reviews-p-4=>El pastel Sacher está de muerte se ha convertido en mi nuevo pastel favorito .... y sin gluten ni lactosa ... flipo!
+section-reviews-footer-4=>Jose Barrascora <time datetime="2017-08-12T08:43">(5 Junio 2020)</time>
+section-footer-information=>Información
+footer-pricing=> Precios
+footer-comments=>Comentarios Clientes
+footer-our-location=>Nuestra localización:
+footer-text=> Estamos para endulzarte la vida.

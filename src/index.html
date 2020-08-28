@@ -1,0 +1,420 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PSenseGluten</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap" rel="stylesheet"> 
+
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="assets/image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+</head>
+
+<body>
+    <app-root></app-root>
+    <header id="inicio">
+        <nav>
+            <div class="menu-header">
+                <img src="assets/image/icono.png" alt="">
+            </div>
+            <div class="menu-header-basic languageEsp">
+                <img src="assets/image/FlagSpain-40.png" id="translateEsI" data-text="es" alt="">
+                <a class="centered" href="#" id="translateEs" data-text="es">ESP</a>
+            </div>
+            <div class="menu-header-basic languageCat" >
+                <img src="assets/image/FlagCatalan-40.png" id="translateCaI" data-text="ca" alt="">
+                <a href="#" class="centered" id="translateCa" data-text="ca">CAT</a>
+            </div>
+            <div class="enlaces-header" id="enlaces">
+                <a data-lang="inicio" href="#inicio">Inicio</a>
+                <a data-lang="section-description" href="#section-description">Quienes somos</a>
+                <a data-lang="section-bakery" href="#section-bakery">Panadería</a>
+                <a data-lang="section-pastrie" href="#section-pastrie">Bollería</a>
+                <a data-lang="section-cake" href="#section-cake">Pastelería</a>
+                <a data-lang="section-pricing" href="#section-pricing">Algunos de nuestros precios</a>
+                <a data-lang="section-reviews" href="#section-reviews">Clientes satisfechos</a>
+            </div>
+        </nav>
+        <div class="contenido-header">
+            <div class="textos-header">
+                <h1 data-lang="titulo-logo">Obrador sin Gluten y sin Lactosa</h1>
+                <a data-lang="donde-encontrarnos" href="https://www.google.com/maps/place/Pastisseria+Sense+gluten/@41.4262338,2.184131,16z/data=!4m13!1m7!3m6!1s0x12a4bcd109635927:0xcaeafb73422c10f1!2sCarrer+de+Berenguer+de+Palou,+147,+08027+Barcelona!3b1!8m2!3d41.427167!4d2.1915125!3m4!1s0x12a4bdacd84939c5:0x5ab3773f639ae853!8m2!3d41.427167!4d2.1915125"  target="_blank"> Donde encontrarnos</a>
+            </div>
+            <div class="img-header">
+                <img src="assets/image/logoEmpty.png" alt="">
+            </div>
+        </div>
+        <div class="wave-bottom">
+            <svg viewBox="0 0 500 150" preserveAspectRatio="none"
+                style="height: 100%; width: 100%;">
+                <path d="M-3.68,28.90 C253.67,102.92 368.22,-62.87 500.84,36.80 L505.92,153.25 L0.00,150.00 Z"
+                    style="stroke: none;"></path>
+            </svg>
+        </div>
+    </header>
+    <main>
+        <section class="acerca-de contenedor" id="section-description">
+            <h3 data-lang="quienes-somos-h3" class="display-4 text-center">¿Quienes somos?</h3>
+            <p data-lang="quienes-somos-titulo">Pastelería Sin Gluten ha nacido desde el corazón.</p>
+            <p data-lang="qs-descripcion-1">Empezó como una ilusión, que fué tomando forma hasta que a principios del 2019 pudimos abrir nuestro obrador en Barcelona.
+            Llevamos poco en el barrio de Sant Andreu pero nuestra entrega es total, nos esmeramos por otorgar la máxima calidad a nuestros productos,
+            que son elaborados de forma artesanal.</p>
+            <p data-lang="qs-descripcion-2"> Todos los que lo deseen pueden adquirir nuestros productos solicitándolos por <a href="#telf"> teléfono </a>,  <a  href="https://www.facebook.com/PastisseriaSenseGluten/" target="_blank">facebook</a> / <a href="https://www.instagram.com/psensegluten/"  target="_blank">instagram</a> o en nuestra <a href="https://www.google.com/maps/place/Pastisseria+Sense+gluten/@41.4262338,2.184131,16z/data=!4m13!1m7!3m6!1s0x12a4bcd109635927:0xcaeafb73422c10f1!2sCarrer+de+Berenguer+de+Palou,+147,+08027+Barcelona!3b1!8m2!3d41.427167!4d2.1915125!3m4!1s0x12a4bdacd84939c5:0x5ab3773f639ae853!8m2!3d41.427167!4d2.1915125"  target="_blank">tienda física.</a></p>
+            <p data-lang="qs-descripcion-3"> Nos sentimos muy orgullosos de comunicaros que nos hemos acreditado como empresa gluten free a través de la <b>Asociación de Celíacos de Cataluña  </b></p>
+            <p > <img src="assets/image/AssociacioCeliacs_400.png" class="center" alt="Acreditación Asociación Celíacos" id="asociationCeliacs"></p>
+        </section>
+        <section class="servicio-cont" id="servicio-cont">
+            <div class="servicio ">
+                <div class="img-servicio">
+                    <img src="assets/image/cake/unicornio-sin-gluten-sin-lactosa.jpg" alt="" id="ilustracionSVG">
+                </div>
+                <article class="contenido-servicio">
+                    <h3 data-lang="contenido-servicio-products">Nuestros productos</h3>
+                    <p data-lang="contenido-servicio-description">Los ingredientes ofrecidos en todos nuestros productos son de la más alta calidad, fabricados siguiendo un proceso profesional y con mucho cariño.
+                        En <strong>PSenseGluten </strong>solo ofrecemos productos de la más&nbsp;<span style="text-decoration: underline;">alta calidad</span>.&nbsp;Estos productos <strong>&nbsp;</strong><strong>no pueden encontrase en los supermercados</strong>, pues se realizan el mismo día, bajo un minucioso proceso artesanal consiguiendo un producto único y delicioso.
+                    </p>
+                    <p data-lang="contenido-servicio-find">En nuestras instalaciones puede encontrar los siguientes productos:</p>
+                    <ul>
+                        <li><a data-lang="section-bakery" href="#section-bakery">Panadería</a></li>
+                        <li><a data-lang="section-pastrie" href="#section-pastrie">Bollería</a></li>
+                        <li><a data-lang="section-cake" href="#section-cake">Pastelería</a></li>
+                    </ul>
+                </article>
+            </div>
+        </section>
+
+        <section class="galeria contenedor" id="section-bakery">
+            <h2 data-lang="section-bakery" class="display-4 text-center">Panadería</h2>
+            <p data-lang="section-bakery-description" class="text-center">Panes diversos y sabrosos con fermentación de larga duración. <br>
+                (Si clicas en las imágenes obtendrás un poco más de información)</p>
+            <article class="galerias">
+                <div class="galeria-img">
+                    <img src="assets/image/bread/Pan_variado_sin_gluten.jpg" alt="">
+
+                    <div class="extra-galeria">
+                        <p data-lang="section-bakery-contact">Encontrarás variados tipos de pan, si quieres más información ponte en contacto con <a id="oneA" target="_blank" href="whatsapp://send/?phone=+34617986372&amp;text=Quisiera%20recibir%20mas%20informacion%20sobre%20el%20buenisimo%20pan%20que%20teneis..."> nosotros</a> </p>
+                    </div>
+                </div>
+                <div class="galeria-img">
+                    <img src="assets/image/bread/Pa-Rustic-Sense-Gluten.jpg" alt="">
+
+                    <div class="extra-galeria">
+                        <p data-lang="section-bakery-gallery-1">Para la elaboración del pan rústico se utiliza una selección de varios tipos de harina</p>
+                    </div>
+                </div>
+                <div class="galeria-img">
+                    <img src="assets/image/bread/Pan_rosa_remolacha_sin_lactosa_sin_gluten.jpg" alt="">
+
+                    <div class="extra-galeria">
+                        <p data-lang="section-bakery-gallery-2">La deliciosa y saludable remolacha le da ese color característico rosa tan apetecible.</p>
+                    </div>
+                </div>
+                <div class="galeria-img">
+                    <img src="assets/image/bread/Pan_hamburguesa_sin_gluten_sin_lactosa_psensegluten.jpg" alt="">
+
+                    <div class="extra-galeria">
+                        <p data-lang="section-bakery-gallery-3">Pan de hamburguesa extremadamente esponjoso, tierno y sobretodo delicioso </p>
+                    </div>
+                </div>
+                <div class="galeria-img">
+                    <img src="assets/image/bread/Pan_semillas_sin_gluten_psensegluten.jpg" alt="">
+
+                    <div class="extra-galeria">
+                        <p data-lang="section-bakery-gallery-4">Pan de semillas llamado por nuestros clientes pan suculento, adivinad el motivo...</p>
+                    </div>
+                </div>
+                <div class="galeria-img">
+                    <img src="assets/image/bread/Pan-Bagette-sin-lactosa-sin-gluten.jpg" alt="">
+
+                    <div class="extra-galeria">
+                        <p data-lang="section-bakery-gallery-5">Bagette larga con harina selecta para obtener el mejor sabor</p>
+                    </div>
+                </div>
+            </article>
+        </section>
+        <section id="section-pastrie" class="contenedor">
+            <h2 data-lang="section-pastrie" class="display-4 text-center">Bollería</h2>
+            <p data-lang="section-pastrie-p1" class="text-center">No solo hay ingredientes también tienen pasión, cariño e ilusión.</p>
+            <p data-lang="section-pastrie-p2" class="text-center">Versión sin gluten y sin lactosa de las recetas tradicionales de la bollería que tanto gusta</p>
+            <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="2600">
+                <ol class="carousel-indicators">
+                <li data-target="#carousel" data-slide-to="1" class="active"></li>
+                <li data-target="#carousel" data-slide-to="2"></li>
+                <li data-target="#carousel" data-slide-to="3"></li>
+                <li data-target="#carousel" data-slide-to="4"></li>
+                <li data-target="#carousel" data-slide-to="5"></li>
+                <li data-target="#carousel" data-slide-to="6"></li>
+                <li data-target="#carousel" data-slide-to="7"></li>
+                <li data-target="#carousel" data-slide-to="8"></li>
+                <li data-target="#carousel" data-slide-to="9"></li>
+                <li data-target="#carousel" data-slide-to="10"></li>
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                    <img src="assets/image\bolleria\carrusel\Croassant_salado_salchicha_sin_lactosa_sin_gluten.jpg" alt="Slide #1" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-1" class="display-4">Cruasan salado</h3>
+                    <h6 data-lang="carousel-description-1">Cruasan de salchicha y queso sin lactosa y gluten</h6>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/image/bolleria/carrusel/Pizza_atun_pimiento_bacon_sin_lactosa_sin_gluten.jpg" alt="Slide #2" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-2" class="display-4">Pizza atún y más</h3>
+                    <h6 data-lang="carousel-description-2" >Riquísima pizza de atún, pimiento, bacon con mucho sabor y nada de gluten y lactosa</h6>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/image/bolleria/carrusel/Palmeras_sin_lactosa_sin_gluten_psensegluten.com.JPG" alt="Slide #3" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-3" class="display-4">Palmeras</h3>
+                    <h6 data-lang="carousel-description-3">Todo un clásico, bueno, sabroso y sin gluten ni lactosa</h6>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/image/bolleria/carrusel/Briox-Sin-Gluten-Sin-Lactosa.jpg" alt="Slide #4" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-4" class="display-4">Brioche diversos</h3>
+                    <h6 data-lang="carousel-description-4">Brioche dulce y de muchos tipos esponjosos con mucho sabor !!!</h6>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/image/bolleria/carrusel/Croassant_psensegluten.com.JPG" alt="Slide #5" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-5" class="display-4">Cruasan francés</h3>
+                    <h6 data-lang="carousel-description-5">Esponjoso, sabroso, delicioso, podriamos seguir un buen rato ... pero mejor probarlo.</h6>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/image/bolleria/carrusel/Coca_crema_y_fruta_sin_lactosa_sin_gluten.jpg" alt="Slide #6" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-6" class="display-4">Hojaldre de frutas</h3>
+                    <h6 data-lang="carousel-description-6">Crujiente y laminoso hojaldre bajo una crema artesana que contiene deliciosa y fresca fruta.</h6>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/image/bolleria/carrusel/Croassant_chocolate_sin_lactosa_sin_gluten.jpg" alt="Slide #7" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-7" class="display-4">Cruasan de chocolate</h3>
+                    <h6 data-lang="carousel-description-7">Cruasan de chocolate sin gluten y sin lactosa</h6>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/image/bolleria/carrusel/Alfajores_sin_lactosa_sin_lactosa_sin_gluten.jpg" alt="Slide #8" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-8" class="display-4">Alfajores argentinos</h3>
+                    <h6 data-lang="carousel-description-8">Exquisito dulce de leche envuelto en unas obleas tremendamente sabrosas</h6>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/image/bolleria/carrusel/Rollos_sobrasada_psensegluten.com.jpg" alt="Slide #9" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-9" class="display-4">Rolls de sobrasada</h3>
+                    <h6 data-lang="carousel-description-9">Masa de hojaldre con suave sobrasada adornada con sésamo ... delicioso !!!</h6>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="assets/image/bolleria/carrusel/RockAndRoll_psensegluten.com.jpg" alt="Slide #10" class="d-block img-fluid">
+                    <div class="carousel-caption">
+                    <h3 data-lang="carousel-title-10" class="display-4">Rolls de ....</h3>
+                    <h6 data-lang="carousel-description-10">Bautizados como Choc & Roll están creados con ...... ¡Ven a descubrirlo!</h6>
+                    </div>
+                </div>
+                </div>
+                <a href="#carousel" class="carousel-control-prev" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+                </a>
+                <a href="#carousel" class="carousel-control-next" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </section>
+
+        <section id="section-cake" class="contenedor">
+            <h2 data-lang="section-cake-h2" class="display-4 text-center">Pasteles</h2>
+            <p data-lang="section-cake-p" class="text-center"> Deliciosos, esponjosos, sabrosos pasteles realizados desde inicio a fin con un riquísimo sabor.</p>
+        <div class="row">
+            <div class="column">
+              <img src="assets/image/cake/Pastel-Chocolate-Blanco-Sin-Gluten.jpg">
+              <img src="assets/image/cake/Pastel-chocolate-sin-gluten-sin-lactosa.jpg">
+              <img src="assets/image/cake/Pastel-trufa-crujiente-almendras-sin-gluten-sin-lactosa_mitad.jpg">
+              <img src="assets/image/cake/Pastel_individual_mouse_limon_verano_retailed.jpg">
+            </div>
+            <div class="column">
+                <img src="assets/image/cake/Pastel_fresa_trufa_sin_lactosa_sin_gluten.jpg">
+                <img src="assets/image/cake/unicornio-sin-gluten-sin-lactosa.jpg">
+                <img src="assets/image/cake/Pastel_mona_crema_quemada_y_almendra_sin_lactosa_sin_gluten.jpg">
+                <img src="assets/image/cake/Pastel_nata_sin_lactosa_sin_gluten.jpg">
+                <img src="assets/image/cake/Pastel_mona_nata_sin_lactosa_sin_gluten.jpg">
+            </div>
+            <div class="column">
+                <img src="assets/image/cake/Pastel_trufa_chocolate_negro_sin_lactosa_sin_gluten_mitad.jpg">
+                <img src="assets/image/cake/crema_cremada_nata_almendra_sin_lactosa_sin_gluten.jpg">
+                <img src="assets/image/cake/Hojaldre-Frutas-Sin-Gluten-Sin-Lactosa.jpg">
+                <img src="assets/image/cake/rosca_nata_sin_lactosa.jpg">
+                <img src="assets/image/cake/Pastel_mona_chocolate_sin_lactosa_sin_gluten.jpg">
+                <img src="assets/image/cake/brazo_gitano_nata.jpg">
+            </div>
+            <div class="column">
+                <img src="assets/image/cake/Brazo_gitano_nata_con_almendra_sin_lactosa_sin_gluten.jpg">
+                <img src="assets/image/cake/chocolate_noche_dia_sin_gluten_sin_lactosa.jpg">
+                <img src="assets/image/cake/Pastel_individual_mouse_frambuesa_acida_crocant_chocolate_70_retailed.jpg">
+                <img src="assets/image/cake/nata_chocolate_con_crema_cremada_sin_gluten_sin_lactosa.jpg">
+                <img src="assets/image/cake/pastel-chocolate-almendra-Sin-gluten-sin-lactosa_mitad.jpg">
+            </div>
+          </div>
+        </section>
+
+        <section id="section-pricing" class="contenedor">
+                <h2 data-lang="section-pricing-h2" class="display-4 text-center">Algunos precios de nuestros riquísimos productos</h2>
+                <div class="row">
+                  <div class="col-12 col-md-4 mb-4 card-acerca">
+                    <div class="card card-outline-success">
+                      <div class="card-header bg-success text-white text-center" >
+                        <h2 data-lang="pricing-1-title-1">Cruasan de Chocolate</h2>
+                        <h4>16,95 € / Kg</h4>
+                      </div>
+                      <div class="card-body">
+                        <p data-lang="pricing-1-description-1" class="card-text">Delicioso y esponjoso cruasan de chocolate sin gluten ni lactosa</p>
+                      </div>
+                      <ul class="list-group">
+                        <li data-lang="pricing-1-description-2" class="list-group-item"><i class="fa fa-fw fa-thermometer-full" aria-hidden="true"></i> Realizado en nuestro obrador cada día</li>
+                        <li data-lang="pricing-1-description-3" class="list-group-item"><i class="fa fa-fw fa-star" aria-hidden="true"></i> Este es solo uno de ellos, ven a visitarnos y verás que diversidad.</li>
+                      </ul>
+                      <div class="card-footer text-center">
+                        <a id="oneA" target="_blank" href="whatsapp://send/?phone=+34617986372&amp;text=Quisiera%20recibir%20mas%20informacion%20sobre%20el%20croassant" class="btn btn-success btn-lg">Lo quiero!</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-12 col-md-4 mb-4  card-acerca">
+                    <div class="card card-outline-warning">
+                      <div class="card-header bg-warning text-white text-center">
+                        <h2 data-lang="pricing-2-title-1">Pasteles sin gluten y sin lactosa</h2>
+                        <h4 data-lang="pricing-2-title-2">Desde 27.5€ peso de 1Kg para 10 personas (30€ Sacher)</h4>
+                      </div>
+                      <div class="card-body">
+                        <p data-lang="pricing-2-description-1" class="card-text">Los pasteles son creados a gusto del consumidor. Dinos que es lo que te gusta, la intolerancia que tienes y así crearemos ese rico pastel tan deseado.</p>
+                      </div>
+                      <ul class="list-group">
+                        <li data-lang="pricing-2-description-2" class="list-group-item"><i class="fa fa-fw fa-thumbs-up" aria-hidden="true"></i> Sin gluten, si quieres, también sin lactosa</li>
+                        <li data-lang="pricing-2-description-3" class="list-group-item"><i class="fa fa-fw fa-hand-o-right" aria-hidden="true"></i >Explíquenos alguna otra intolerancia y encantados le realizaremos el pastel. </li>
+                        <li data-lang="pricing-2-description-4" class="list-group-item"><i class="fa fa-fw fa-star" aria-hidden="true"></i> Con pasión por la reposteria</li>
+                      </ul>
+                      <div class="card-footer text-center">
+                        <a id="twoA" target="_blank" href="whatsapp://send/?phone=+34617986372&amp;text=Me%20gustaria%20recibir%20mas%20informacion%20sobre%20los%20pasteles" class="btn btn-warning btn-lg">Me lo pido</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-12 col-md-4 mb-4  card-acerca">
+                    <div class="card card-outline-danger">
+                      <div class="card-header bg-danger text-white text-center"> 
+                        <h2 data-lang="pricing-3-title-1">Xapata sin gluten</h2>
+                        <h4>1.5 €</h4>
+                      </div>
+                      <div class="card-body">
+                        <p data-lang="pricing-3-description-1" class="card-text">Con harina de teff y trigo sarraceno sin gluten y reposada durante 24h para obtener el máximo sabor.</p>
+                      </div>
+                      <ul class="list-group">
+                        <li data-lang="pricing-3-description-2" class="list-group-item"><i class="fa fa-fw fa-arrow-circle-right" aria-hidden="true"></i> Harina de teff y trigo sarraceno <br> Una pizca de sal</li>
+                        <li data-lang="pricing-3-description-3" class="list-group-item"><i class="fa fa-fw fa-thermometer-full" aria-hidden="true"></i> Levadura con un poco de horno</li>
+                        <li data-lang="pricing-3-description-4" class="list-group-item"><i class="fa fa-fw fa-heart" aria-hidden="true"></i> Amor por los productos que elaboramos</li>
+                      </ul>
+                      <div class="card-footer text-center">
+                        <a target="_blank" id="threeA" href="whatsapp://send/?phone=+34617986372&amp;text=Quisiera%20recibir%20mas%20informacion%20sobre%20esa%20maravillosa%20Xpata" class="btn btn-danger btn-lg">¡Quiero uno!</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              
+            <section id="section-reviews"  class="contenedor">
+                <h2 data-lang="section-reviews-h2" class="display-4 text-center">Comentarios de nuestros clientes</h2>
+                <div class="row">
+                    <div class="col-12 col-md-6 col-xl-3">
+                    <blockquote class="blockquote p-3">
+                        <p data-lang="section-reviews-p-1" ><i class="fa fa-fw fa-quote-left text-secondary" aria-hidden="true"></i>Este es el mejor sitio sin gluten que he probado. ¡Recomiendo altamente el donut!<i class="fa fa-fw fa-quote-right text-secondary" aria-hidden="true"></i></p>
+                        <footer data-lang="section-reviews-footer-1" class="blockquote-footer resenya">Marc Griell <time datetime="2017-06-15T14:35">(11 Febrero 2020)</time></footer>
+                    </blockquote>
+                    </div>
+                    <div class="col-12 col-md-6 col-xl-3">
+                    <blockquote class="blockquote p-3">
+                        <p data-lang="section-reviews-p-2"><i class="fa fa-fw fa-quote-left text-secondary" aria-hidden="true"></i> Nunca antes he podido comer pasteles sin dejarme el bolsillo, este tiene con buenos precios y además delicioso<i class="fa fa-fw fa-quote-right text-secondary" aria-hidden="true"></i></p>
+                        <footer data-lang="section-reviews-footer-2" class="blockquote-footer resenya">Antonio Trabillo <time datetime="2017-07-09T19:12">(14 Diciembre 2019)</time></footer>
+                    </blockquote>
+                    </div>
+                    <div class="col-12 col-md-6 col-xl-3">
+                    <blockquote class="blockquote p-3">
+                        <p data-lang="section-reviews-p-3" ><i class="fa fa-fw fa-quote-left text-secondary" aria-hidden="true"></i>He probado diferentes productos y me los comía todos.<i class="fa fa-fw fa-quote-right text-secondary" aria-hidden="true"></i></p>
+                        <footer data-lang="section-reviews-footer-3" class="blockquote-footer resenya">Anabel Francis <time datetime="2017-09-01T11:19">(11 Abril 2019)</time></footer>
+                    </blockquote>
+                    </div>
+                    <div class="col-12 col-md-6 col-xl-3">
+                    <blockquote class="blockquote p-3">
+                        <p data-lang="section-reviews-p-4"><i class="fa fa-fw fa-quote-left text-secondary" aria-hidden="true"></i>El pastel Sacher está de muerte se ha convertido en mi nuevo pastel favorito .... y sin gluten ni lactosa ... flipo!<i class="fa fa-fw fa-quote-right text-secondary" aria-hidden="true"></i></p>
+                        <footer data-lang="section-reviews-footer-4" class="blockquote-footer resenya">Jose Barrascora <time datetime="2017-08-12T08:43">(5 Junio 2020)</time></footer>
+                    </blockquote>
+                    </div>
+                </div>
+            </section>
+      </main>
+    <footer class="bg-light">
+        <div class="container py-3 py-sm-5">
+            <div class="row">
+            <div class="col-12 col-sm-6 col-lg-4">
+                <h6 data-lang="section-footer-information">Información</h6>
+                <ul class="list-unstyled">
+                <li><a data-lang="inicio" href="index.html#inicio">Inicio</a></li>
+                <li><a data-lang="section-description" href="index.html#section-description">Quienes somos</a></li>
+                <li><a data-lang="section-bakery" href="index.html#section-pastrie">Bollería</a></li>
+                <li><a data-lang="section-cake" href="index.html#section-cake">Pastelería</a></li>
+                <li><a data-lang="footer-pricing" href="index.html#section-pricing">Precios</a></li>
+                <li><a data-lang="footer-comments" href="index.html#section-reviews">Comentarios Clientes</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+                <h6>Follow us</h6>
+                <ul class="list-unstyled">
+                <li><a href="https://www.facebook.com/PastisseriaSenseGluten/" target="_blank"target="_blank"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i> Facebook</a></li>
+                <li><a href="https://www.instagram.com/psensegluten/"><i class="fa fa-fw fa-instagram" aria-hidden="true" target="_blank"></i> Instagram</a></li>
+                <li><a href="https://www.google.com/maps/place/Pastisseria+Sense+gluten/@41.4262338,2.184131,16z/data=!4m13!1m7!3m6!1s0x12a4bcd109635927:0xcaeafb73422c10f1!2sCarrer+de+Berenguer+de+Palou,+147,+08027+Barcelona!3b1!8m2!3d41.427167!4d2.1915125!3m4!1s0x12a4bdacd84939c5:0x5ab3773f639ae853!8m2!3d41.427167!4d2.1915125"><i class="fa fa-fw fa-map-marker" aria-hidden="true" target="_blank"></i> Google</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-sm-6 col-lg-4">
+                <h6 data-lang="footer-our-location">Nuestra localización:</h6>
+                <address>
+                <h6>Psensegluten</h6>
+                <a href="https://www.google.com/maps/place/Pastisseria+Sense+gluten/@41.4262338,2.184131,16z/data=!4m13!1m7!3m6!1s0x12a4bcd109635927:0xcaeafb73422c10f1!2sCarrer+de+Berenguer+de+Palou,+147,+08027+Barcelona!3b1!8m2!3d41.427167!4d2.1915125!3m4!1s0x12a4bdacd84939c5:0x5ab3773f639ae853!8m2!3d41.427167!4d2.1915125"  target="_blank">Berenguer de palou, 147</a><br>
+                <a href="https://www.google.com/maps/place/Pastisseria+Sense+gluten/@41.4262338,2.184131,16z/data=!4m13!1m7!3m6!1s0x12a4bcd109635927:0xcaeafb73422c10f1!2sCarrer+de+Berenguer+de+Palou,+147,+08027+Barcelona!3b1!8m2!3d41.427167!4d2.1915125!3m4!1s0x12a4bdacd84939c5:0x5ab3773f639ae853!8m2!3d41.427167!4d2.1915125"  target="_blank">08027 Barcelona, Spain</a>  <br>
+                <i class="fa fa-fw fa-phone" aria-hidden="true"></i><span class="sr-only"><a name="telf">  Teléfono:</a></span> <img style="width:145px;height:25px;" src="assets/image/telfContactoTW.png" /><br>
+                </address>
+            </div>
+            </div>
+            <div class="row">
+            <div class="col-12 col-sm-6 col-lg-9">
+                <ul class="list-inline">
+                    <li class="list-inline-item">&copy; 2019 www.PSensegluten.com.</li>
+                    <li data-lang="footer-text" class="list-inline-item">Estamos para endulzarte la vida.</li>
+                </ul>
+            </div>
+            </div>
+        </div>
+    </footer>
+
+    <!--<script src="js/smooth-scroll/smooth-scroll.js"></script>-->
+    <script>
+    var scroll = new SmoothScroll('a[href*="#"]', {
+    	speed: 500,
+    	speedAsDuration: true
+    });
+    </script>
+</body>
+
+</html>
