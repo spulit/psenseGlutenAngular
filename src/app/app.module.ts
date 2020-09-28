@@ -11,9 +11,11 @@ import { CarouselComponent } from './carousel/carousel.component';
 import { CakeComponent } from './cake/cake.component';
 import { PriceComponent } from './price/price.component';
 import { ReviewComponent } from './review/review.component';
+import { HeaderComponent } from './header/header.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
-  declarations: [AppComponent, DescriptionComponent, ServicioComponent, BakeryComponent, CarouselComponent, CakeComponent, PriceComponent, ReviewComponent],
+  declarations: [AppComponent, DescriptionComponent, ServicioComponent, BakeryComponent, CarouselComponent, CakeComponent, PriceComponent, ReviewComponent, HeaderComponent, FooterComponent],
   imports: [BrowserModule, BrowserAnimationsModule, MaterialModule],
   providers: [],
   bootstrap: [AppComponent],
