@@ -1,4 +1,4 @@
-$(document).ready(function(){
+jQuery(function() {
     var selector = '#translateEsI,#translateEs,#translateCaI,#translateCa';
     
     $(selector).on('click', function(e){
@@ -43,7 +43,7 @@ $(document).ready(function(){
       $('.loading-lang').addClass('show');
       
       $.ajax({
-        url: 'lang/'+lang+'.txt',
+        url: 'assets/lang/'+lang+'.txt',
         error:function(){
           alert('No se cargó traducción');
         },
